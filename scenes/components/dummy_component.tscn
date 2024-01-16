@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://peghicv1lfr5"]
+
+[node name="DummyComponent" type="Node3D"]
